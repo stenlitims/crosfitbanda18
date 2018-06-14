@@ -1,0 +1,267 @@
+@media all and (max-width: 1200px) and (min-width: 768px) {}
+
+@media (min-width: 560px) {
+    .section-contacts .col {
+        min-width: 33.33%;
+        max-width: 33.33%;
+    }
+}
+
+@media (min-width: 768px) {
+    .fancybox-slide>.c-modal {
+        padding: 40px; // min-width: 500px;
+    }
+    .modal1 {
+        min-width: 500px;
+    }
+}
+
+@media (min-width: 991px) {
+    .section-contacts .col {
+        min-width: 20%;
+        max-width: 20%;
+    }
+}
+
+@media (min-width: 1300px) {
+    .container {
+        min-width: 1200px;
+    }
+    .section-text .text-inner {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .our-comand {
+        .heading {
+            margin-bottom: 70px;
+        }
+    }
+}
+
+@media (max-width: 1440px) {
+    .main-slider .info .text {
+        font-size: 70px;
+        margin-bottom: 12%;
+    }
+    .heading {
+        font-size: 50px;
+        margin-bottom: 35px;
+    }
+    .list-pr .ico {
+        font-size: 90px;
+        img {
+            max-height: 85px;
+        }
+    }
+    .pad {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .list-pr .title {
+        font-size: 17px;
+    }
+    .section-bl {
+      //  min-height: inherit;
+        height: inherit;
+    }
+    .class-list .item .title {
+        font-size: 48px;
+    }
+    .news-list-wrap {
+        //  max-width: 800px;
+        //    margin-left: auto;
+        //   margin-right: auto;
+        //  padding: 0;
+    }
+    .news-list .owl-item img {
+        //   max-height: 220px;
+        //object-fit: cover;
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .news-list .img {
+        margin-bottom: 24px;
+    }
+    .news-list .title {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+    .news-list .item {
+        padding: 30px 30px 20px;
+    }
+    .news-list .owl-nav .owl-prev:before,
+    .news-list .owl-nav .owl-next:before {
+        width: 50px;
+        height: 50px;
+    }
+    .footer .app img {
+        width: 24px;
+    }
+    .soc svg {
+        height: 16px;
+        width: 16px;
+    }
+    .soc a {
+        width: 29px;
+        height: 29px;
+    }
+    .section-contacts .clubs1 {
+        margin-bottom: 35px;
+    }
+    #map {
+        height: 500px;
+    }
+    .section-contacts .contacts {
+        font-size: 20px;
+    }
+    body .fancybox-slide>div {
+        margin: 20px 0;
+    }
+    .nav-clubs {
+        font-size: 30px;
+    }
+    .period {
+        font-size: 20px;
+    }
+    .nav-clubs .active a:after {
+        width: 56px;
+        height: 30px;
+        bottom: -22px;
+    }
+    .btn-arr:before {
+        width: 20px;
+        height: 20px;
+        border-width: 5px;
+    }
+    .list-vakan .title {
+        font-size: 42px;
+        padding: 20px 40px;
+        margin-bottom: 20px;
+    }
+    .row-sponsor .title {
+        font-size: 36px;
+    }
+    .row-sponsor .link {
+        font-size: 20px;
+    }
+    .list-pdf a:before {
+        min-width: 30px;
+        height: 39px;
+    }
+    .list-card .title {
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .list-period .price {
+        font-size: 38px;
+    }
+    .list-period .m {
+        font-size: 24px;
+    }
+    .list-tr .title {
+        font-size: 36px;
+    }
+    .list-tr .dl {
+        font-size: 24px;
+    }
+    .ban-full .container .num {
+        font-size: 170px;
+    }
+    .ban-full .container {
+        font-size: 40px;
+    }
+    .treiner .text-inner {
+        padding-left: 60px;
+    }
+    .section-class {
+        height: inherit;
+    }
+}
+
+@media (max-width: 1440px) and (min-width: 991px) {
+    .bl2 {
+        position: relative;
+        .list-city {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 50px;
+        }
+    }
+}
+
+@media (max-width: 1340px) {
+    .rev-btn {}
+    .section-contacts .title-sec {
+        font-size: 30px;
+    }
+    .section-contacts .title {
+        font-size: 18px;
+    }
+    .section-contacts .adr {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .main-slider .info .text {
+        font-size: 56px;
+    }
+    .news-list .owl-item img {
+        max-width: 260px;
+    }
+    .row-sponsor .title {
+        font-size: 32px;
+    }
+    .list-pdf {
+        font-size: 13px;
+    }
+    .list-pdf a {
+        max-width: 115px;
+    }
+    .row-sponsor .link {
+        font-size: 17px;
+    }
+    .list-part img {
+        max-width: 170px;
+        max-height: 90px;
+    }
+    .list-card .info-card {
+        padding-left: 15px;
+    }
+    .list-news-page>div:nth-child(1) .title,
+    .list-news-page>div:nth-child(2) .title {
+        font-size: 27px;
+    }
+    .list-news-page>div:nth-child(1) .text,
+    .list-news-page>div:nth-child(2) .text {
+        font-size: 15px;
+    }
+    .list-news-page .item {
+        padding: 20px 24px 15px;
+    }
+    .list-news-page .text {
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    .list-news-page .title {
+        font-size: 22px;
+    }
+    .treiner .text-inner {
+        padding-left: 0;
+    }
+    .list-tr .title {
+        font-size: 28px;
+    }
+    .ban-full .container {
+        font-size: 30px;
+    }
+    .ban-full .container .num {
+        font-size: 140px;
+    }
+}
+
+@media all and (max-width: 1300px) and (min-width: 1200px) {}

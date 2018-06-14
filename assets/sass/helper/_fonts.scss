@@ -1,0 +1,43 @@
+/*
+ * Fonts
+ */
+/*
+ * Colors
+ */
+/*
+ * Misc
+ */
+/*
+ * Boootstrap Overrides
+ */
+@font-face {
+  font-family: "BebasNeue";
+  font-weight: 400;
+  src: url("../fonts/BebasRegular/BebasRegular.woff") format("woff"), url("../fonts/BebasRegular/BebasRegular.ttf") format("truetype"), url("../fonts/BebasRegular/BebasRegular.eot?") format("eot");
+}
+
+@font-face {
+  font-family: "BebasNeue";
+  font-weight: 700;
+  src: url("../fonts/BebasBold/BebasBold.woff") format("woff"), url("../fonts/BebasBold/BebasBold.ttf") format("truetype"), url("../fonts/BebasBold/BebasBold.eot?") format("eot");
+}
+
+@font-face {
+  font-family: "PFDinTextCondPro";
+  font-weight: 300;
+  src: url("../fonts/PFDinTextCondProLight/PFDinTextCondProLight.woff") format("woff"), url("../fonts/PFDinTextCondProLight/PFDinTextCondProLight.ttf") format("truetype"), url("../fonts/PFDinTextCondProLight/PFDinTextCondProLight.eot?") format("eot");
+}
+
+@font-face {
+  font-family: "PFDinTextCondPro";
+  font-weight: 400;
+  src: url("../fonts/PFDinTextCondProRegular/PFDinTextCondProRegular.woff") format("woff"), url("../fonts/PFDinTextCondProRegular/PFDinTextCondProRegular.ttf") format("truetype"), url("../fonts/PFDinTextCondProRegular/PFDinTextCondProRegular.eot?") format("eot"), url("../fonts/PFDinTextCondProRegular/PFDinTextCondProRegular.svg#PFDinTextCondPro") format("svg");
+}
+
+@font-face {
+  font-family: "PFDinTextCondPro";
+  font-weight: 500;
+  src: url("../fonts/PFDinTextCondProMedium/PFDinTextCondProMedium.ttf") format("truetype"), url("../fonts/PFDinTextCondProMedium/PFDinTextCondProMedium.eot?") format("eot"), url("../fonts/PFDinTextCondProMedium/PFDinTextCondProMedium.svg#PFDinTextCondPro") format("svg");
+}
+
+/* See documentation here: https://www.w3.org/TR/css-fonts-3/#font-weight-prop */

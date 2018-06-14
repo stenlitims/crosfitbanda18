@@ -1,0 +1,33 @@
+@media (max-width: 991px) {
+	.goals__link {
+		margin: 0 32px;
+	}
+	.goals__link:not(:last-child):after {
+		right: -32px;
+	}
+	.pos-grid {
+		font-size: 1rem;
+	}
+	.pos-grid__item {
+		width: 33.333%;
+	}
+	.btn-def{
+		font-size: 24px;
+	}
+	.prem-list .row > div{
+		margin-bottom: 15px;
+	}
+	.main-section .sec-head{
+		margin-bottom: 30px;
+	}
+	.section1{
+		padding-top: 30px;
+		//padding-bottom: 10px;
+	}
+	.l-text{
+		max-width: 50%;
+	}
+	.social-wrap{
+		font-size: 18px;
+	}
+}

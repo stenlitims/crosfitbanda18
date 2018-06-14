@@ -1,0 +1,433 @@
+@media (max-width: 767px) {
+    .list-news-page>div {
+        min-width: 100% !important;
+        max-width: 100% !important;
+    }
+    .list-cats a {
+        margin: 0 7px;
+    }
+    .list-class-page {
+        // max-width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .list-class-page .text {
+        font-size: 100%;
+        line-height: 1.6;
+    }
+    .c-modal {
+        .container-mini {
+            padding: 0;
+        }
+    }
+    .back-wr {
+        margin-top: -20px;
+    }
+    .page-news h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .news-img {
+        float: none;
+        max-width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .heading2 {
+        font-size: 30px;
+    }
+    .share-container .btn {
+        font-size: 22px;
+    }
+    .share-container .btn svg {
+        width: 30px;
+        height: 30px;
+    }
+    .our-comand {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+
+@media (max-width: 576px) {
+    .list-class-page {
+        max-width: 280px;
+    }
+    .list-class-page .text {
+        font-size: 120%;
+    }
+    .list-cats a.active:after {
+        height: 7px;
+        width: 10px;
+        left: 3px;
+        top: 3px;
+    }
+    .main-slider .info .text {
+        font-size: 38px;
+    }
+    .btn-def {
+        font-size: 18px;
+        padding: 13px 26px 11px;
+    }
+    .main-slider .owl-nav {
+        width: 74px;
+        height: 36px;
+    }
+    .heading {
+        font-size: 32px;
+    }
+    .bl2 {
+        .list-city {
+            margin-bottom: 35px; // margin-top: 0;
+        }
+    }
+    .class-list {
+        margin-top: 0;
+    }
+    .row-heading {
+        display: block;
+    }
+    .list-cats a {
+        margin: 0 14px;
+        font-size: 16px;
+    }
+    .list-cats a:before {
+        width: 16px;
+        height: 13px;
+    }
+    .news-list .owl-nav .owl-prev:before,
+    .news-list .owl-nav .owl-next:before {
+        width: 20px;
+        height: 20px;
+        border-width: 5px;
+    }
+    .news-list .title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    body {
+        font-size: 14px;
+    }
+    .news-list .item {
+        padding: 24px 18px 14px;
+    }
+    .news-list-wrap {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .section-contacts .list-city {
+        position: static;
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+    .section-contacts .col {
+        min-width: 50%;
+        max-width: 50%;
+    }
+    .section-contacts .adr {
+        font-size: 13px;
+    }
+    .section-contacts .title {
+        margin-bottom: 2px;
+    }
+    .section-contacts .title-sec {
+        font-size: 20px;
+    }
+    .section-contacts .title {
+        font-size: 16px;
+    }
+    .footer .copy {
+        font-size: 12px;
+    }
+    .list-pr .ico {
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+    .list-pr .ico img {
+        height: 50px;
+    }
+    .class-list .item .title {
+        margin-bottom: 12px;
+    }
+    .sec-text {
+        margin-bottom: 20px;
+    }
+    .fixed-action-btn {
+        bottom: 20px;
+    }
+    .btn-arr:before {
+        width: 16px;
+        height: 17px;
+        border-width: 3px;
+    }
+    .nav-clubs {
+        font-size: 17px;
+        margin-bottom: 35px;
+    }
+    .nav-clubs .active a:after {
+        width: 40px;
+        height: 16px;
+        bottom: -10px;
+    }
+    .heading-row {
+        margin-bottom: 10px;
+        .heading {
+            font-size: 28px;
+        }
+    }
+    .list-city {
+        font-size: 17px;
+    }
+    .list-city a.active:after {
+        width: 27px;
+        height: 14px;
+        bottom: -12px;
+    }
+    .heading-row {
+        display: block;
+        margin-bottom: 30px;
+        text-align: center;
+        .list-city {
+            margin-top: 0;
+        }
+    }
+    .inner-page {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    .list-vakan .title {
+        font-size: 23px;
+        padding: 13px 20px;
+    }
+    .list-vakan .title:before,
+    .list-vakan .title:after {
+        border-width: 2px;
+        width: 18px;
+        height: 18px;
+    }
+    .text-inner ul li {
+        padding-left: 20px;
+    }
+    .text-inner ul li:before {
+        left: 5px;
+        top: 8px;
+    }
+    .list-part img {
+        max-width: 100%;
+    }
+    .row-sponsor .title {
+        font-size: 24px;
+    }
+    .block2 {
+        .heading {
+            text-align: center;
+        }
+    }
+    .block {
+        margin-bottom: 25px;
+    }
+    .list-pdf a:before {
+        min-width: 20px;
+        height: 27px;
+        margin-right: 5px;
+    }
+    .list-pdf a {
+        max-width: inherit;
+    }
+    .list-pdf {
+        font-size: 12px;
+    }
+    .list-part>div {
+        margin-bottom: 20px;
+    }
+    .list-card .title {
+        font-size: 30px;
+        margin-bottom: 46px;
+    }
+    .list-card .img {
+        max-width: 280px;
+    }
+    .list-period .m {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .list-period .price {
+        font-size: 24px;
+    }
+    .list-card .more-info {
+        padding: 15px;
+    }
+    .list-card .more-info .close {
+        width: 16px;
+        height: 16px;
+        right: 15px;
+        top: 15px;
+    }
+    .list-card .more-info .text-inner>* {
+        font-size: 100%;
+    }
+    .news-page {
+        .list-cats {
+            justify-content: center;
+        }
+    }
+    .list-news-page .text {
+        font-size: 12px !important;
+        line-height: 1.4 !important;
+    }
+    .class-ban .container {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        >div {
+            //  width: 100%;
+        }
+    }
+    .class-ban .title {
+        margin-bottom: 30px;
+    }
+    .class-ban {
+        height: inherit;
+        min-height: inherit;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        ul {
+            margin-bottom: 0;
+        }
+    }
+    .ban-full .container .num {
+        font-size: 90px;
+    }
+    .ban-full .container {
+        font-size: 16px;
+    }
+    .treiner .text-inner {
+        font-size: 15px;
+    }
+    .treiner .text-inner .title {
+        margin-bottom: 20px;
+    }
+    .section-text .text-inner {
+        font-size: 15px;
+    }
+    .list-comand .name {
+        font-size: 35px;
+    }
+    body .fancybox-slide>div {
+        margin: 20px 10px;
+    }
+    .treiner .wr-img {
+        float: none;
+        margin: 20px 0 30px;
+        width: inherit;
+    }
+    .treiner .img-tr {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        padding-left: 10%;
+    }
+    .burger {
+        width: 35px;
+    }
+    #modal_card {
+        form {
+            min-width: 78vw;
+        }
+    }
+    .c-modal .heading2 {
+        margin-top: 10px;
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+    .text-inner {
+        font-size: 16px;
+    }
+    .list-cats a:before {
+        position: relative;
+        top: -2px;
+    }
+    .modal-trener {
+        h1 {
+            line-height: 1;
+            font-size: 32px;
+        }
+        h3 {
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+    }
+    .treiner .img-tr {
+        padding: 4%;
+    }
+    .treiner .img-tr:before {
+        right: 0;
+    }
+    .mob-nav .main-nav>ul>li>ul a:before {
+        bottom: 0;
+    }
+    .nav-clubs .nav-clubs-slider li {
+        padding-bottom: 18px;
+    }
+    .list-news-page>div:nth-child(1),
+    .list-news-page>div:nth-child(2) {
+        .item {
+            &:after,
+            &:before {
+                content: '';
+            }
+        }
+    }
+    .section-text {
+        .heading {
+            margin-bottom: 18px;
+        }
+    }
+    .clubs-gal.owl-carousel .owl-nav button.owl-next {
+        right: -12px;
+    }
+    .clubs-gal.owl-carousel .owl-nav button.owl-prev {
+        left: -12px;
+    }
+    .nav-clubs .nav-clubs-slider .owl-nav button.owl-next {
+        border-width: 10px 0 10px 10px;
+        right: -10px;
+    }
+    .nav-clubs .nav-clubs-slider .owl-nav button.owl-prev {
+        border-width: 10px 10px 10px 0;
+        left: -10px;
+    }
+}
+
+@media (min-width: 375px) {}
+
+@media (max-width: 400px) {
+    .nav-clubs {
+        font-size: 16px;
+    }
+    .period {
+        font-size: 16px;
+    }
+    .mob-nav {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+}
+
+@media (max-width: 374px) {
+    .footer .copy {
+        display: none;
+    }
+    .main-slider .info .text {
+        font-size: 33px;
+    }
+    .heading {
+        font-size: 28px;
+    }
+    .nav-clubs {
+        font-size: 14px;
+    }
+    .list-pdf {
+        font-size: 11px;
+    }
+}

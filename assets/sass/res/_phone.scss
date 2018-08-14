@@ -47,6 +47,7 @@
         padding-top: 30px;
         padding-bottom: 30px;
     }
+    
 }
 
 @media (max-width: 576px) {
@@ -396,6 +397,9 @@
     .nav-clubs .nav-clubs-slider .owl-nav button.owl-prev {
         border-width: 10px 10px 10px 0;
         left: -10px;
+    }
+    .main-slider .wrap-mask{
+        width: 70vw;
     }
 }
 

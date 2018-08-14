@@ -642,4 +642,12 @@ function gAn($form) {
     });
 
 
+    $('.js-btn-form').click(function () {
+        var name = $(this).data('name');
+        if (!name) name = $(this).text();
+        $('#modal_def .m-header').text($(this).text());
+        $('#modal_def input[name=form]').val(name);
+    });
+
+
 })();

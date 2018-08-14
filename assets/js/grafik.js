@@ -67,6 +67,9 @@ var app = new Vue({
         }
         this.fetchData(new Date());
     },
+    updated: function () {
+        $('[data-tipso]').tipso();
+    },
     methods: {
         fetchData: function (date) {
             date.setHours(23.59);
@@ -124,6 +127,7 @@ var app = new Vue({
             this.list = list;
             this.dateLast = weak2[weak2.length - 1].dateO;
             this.dateFirst = weak2[0].dateO;
+
         },
         page: function (val) {
             if (val == 'next') {
